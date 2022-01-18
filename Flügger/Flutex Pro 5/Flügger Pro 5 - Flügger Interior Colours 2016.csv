@@ -1,0 +1,114 @@
+name,space_id,color
+IN-700 - Offwhite,0,FFFEF8
+IN-701 - Ral 9010,0,FCFAF5
+IN-702 - Eggshell,0,FFFDEC
+IN-703 - Fashion White,0,F4EFE4
+IN-705 - Warm Grey 1,0,FDFAF1
+IN-706 - Warm Grey 2,0,DFD9CE
+IN-707 - Warm Grey 3,0,C1BEB4
+IN-708 - Warm Grey 4,0,989488
+IN-709 - Warm Grey 5,0,6C695F
+IN-710 - Neutral Grey 1,0,F2F2F0
+IN-711 - Neutral Grey 2,0,E5E2E1
+IN-712 - Neutral Grey 3,0,D9D8D7
+IN-713 - Neutral Grey 4,0,D1D0CD
+IN-714 - Neutral Grey 5,0,B7B7B5
+IN-715 - Neutral Grey 6,0,989A99
+IN-716 - Neutral Grey 7,0,818181
+IN-717 - Neutral Grey 8,0,575857
+IN-718 - Neutral Grey 9,0,434141
+IN-719 - Neutral Grey 10,0,373433
+IN-720 - Sand Shade 1,0,F6F0E6
+IN-721 - Sand Shade 2,0,F2E9D7
+IN-722 - Sand Shade 3,0,D4CBBA
+IN-723 - Sand Shade 4,0,C3BCAA
+IN-724 - Sand Shade 5,0,979283
+IN-725 - Brown Shade 1,0,F6EADF
+IN-726 - Brown Shade 2,0,CCC1B5
+IN-727 - Brown Shade 3,0,998E82
+IN-728 - Brown Shade 4,0,6D6155
+IN-729 - Brown Shade 5,0,453B31
+IN-730 - Blue Shade 1,0,E5E4E7
+IN-731 - Blue Shade 2,0,B8BABC
+IN-732 - Blue Shade 3,0,929698
+IN-733 - Blue Shade 4,0,626668
+IN-734 - Blue Shade 5,0,303337
+IN-735 - Green Shade 1,0,E8E8E0
+IN-736 - Green Shade 2,0,BABBB2
+IN-737 - Green Shade 3,0,92968D
+IN-738 - Green Shade 4,0,696f6a
+IN-739 - Green Shade 5,0,2E352D
+IN-740 - Heart Of Gold,0,F8DC8E
+IN-741 - Bittersweet,0,DFC280
+IN-742 - Blond Daisy,0,FFFADC
+IN-743 - Golden Breeze,0,FFE6A7
+IN-744 - Midsummer Glow,0,EBAF53
+IN-745 - Morning View,0,FFFEF6
+IN-746 - Yellow Embrace,0,FFF1D4
+IN-747 - Calm Nude,0,F6E4C6
+IN-748 - Warm Clay,0,B3A28D
+IN-749 - Oak Room,0,543C2F
+IN-750 - Soft Touch,0,FFF6E6
+IN-751 - Blissful Moment,0,EFE0CD
+IN-752 - Sunday Mood,0,E0CBB6
+IN-753 - Afternoon Delight,0,D7B89C
+IN-754 - Summer Camp,0,D89662
+IN-755 - Christiansborg Red,0,97372A
+IN-756 - My Diary,0,D97170
+IN-757 - Ballet Shoes,0,EED8D3
+IN-758 - Daydream,0,E19E96
+IN-759 - Letter From The Past,0,8E6C63
+IN-760 - Annas Closet,0,B69A8F
+IN-761 - Lavender Touch,0,D9D3D5
+IN-762 - Purple Pleasure,0,C6B9BF
+IN-763 - Those Moments,0,A49EA7
+IN-764 - Before The Storm,0,6F616C
+IN-765 - Oregon Grape,0,5C6C7E
+IN-766 - Velvet Blue,0,728AA0
+IN-767 - Noble Blue,0,A4B7CA
+IN-768 - Nordic Grace,0,E4F3F7
+IN-769 - Telling Stories,0,B2D5D9
+IN-770 - Lake View,0,BBD4CC
+IN-771 - Seacliff,0,A3B4AE
+IN-772 - Relaxed Green,0,BBC8BB
+IN-773 - Bachelors Club,0,699887
+IN-774 - Gentlemans Room,0,417770
+IN-775 - Memory Lane,0,6B8A5D
+IN-776 - Take A Break,0,9EAE7F
+IN-777 - River Cottage,0,D5D4AE
+IN-778 - Delicate Green,0,EEEED0
+IN-779 - Summer Passing,0,B6B494
+IN-780 - Early Bird,0,FFF6A7
+IN-781 - Happy Go Lucky,0,F5EB5E
+IN-785 - Picture Perfect,0,F5A596
+IN-788 - Sweet 60,0,531E39
+IN-790 - Babys Pool,0,9CCEF0
+IN-791 - Hold Your Breath,0,00396E
+IN-792 - Dive Hard,0,005D9B
+IN-793 - Surfers Paradise,0,008FB6
+IN-794 - Lifeguard Pretty,0,75C1C0
+IN-795 - Envy Me,0,008A7C
+IN-796 - See You Later,0,004A41
+IN-797 - Go Green,0,007341
+IN-798 - Neighbours Lawn,0,79BC7A
+IN-799 - Wannabe Lime,0,C2DA96
+TIME 01 - Geneve,0,263642
+TIME 02 - Cosy Cover,0,b5a090
+TIME 03 - Angels Breath,0,e7dbd3
+TIME 04 - Green Secret,0,818b7e
+TIME 05 - Museum Green,0,5a846c
+TIME 06 - Antwerpen,0,88a3a4
+TIME 07 - Mint Tea,0,d3dbd6
+TIME 08 - My Retreat,0,b5bbb9
+TIME 09 - Dove Feather,0,83949f
+TIME 10 - Museum Blue,0,546a86
+TIME 11 - Como,0,c7bcb4
+TIME 12 - Desert Rose,0,aba4a2
+TIME 13 - Mountain Mist,0,dad6cc
+TIME 14 - Distant Sunlight,0,edd69e
+TIME 15 - Museum Yellow,0,f0e8a9
+TIME 16 - Lounge Red,0,563532
+TIME 17 - Brasserie,0,758280
+TIME 18 - Glass Hall,0,a08d80
+TIME 19 - Museum Brown,0,62574b
+TIME 20 - Museum Turquoise,0,9ab6b0
