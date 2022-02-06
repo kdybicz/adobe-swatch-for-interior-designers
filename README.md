@@ -6,7 +6,7 @@ I was interested in.
 
 `.csv` files were created based on the data available on the paint companies website.
 
-`.aco` files were generated from the `.csv` files using [Adobe Color Swatch Generator](https://github.com/kdybicz/adobe-color-swatch) project.
+`.aco` files were generated from the `.csv` files using [Adobe Color Swatch](https://pypi.org/project/adobe-color-swatch/) project.
 
 
 ### Note
